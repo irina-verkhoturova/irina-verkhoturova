@@ -1,16 +1,35 @@
-## Hi there 👋
+# Портфолио продуктового аналитика
 
-<!--
-**irina-verkhoturova/irina-verkhoturova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! Меня зовут Ирина. Здесь собраны мои проекты по продуктовой аналитике: когортный анализ, удержание, A/B-тесты, юнит-экономика, приоритизация гипотез. Репозиторий пополняется по мере новых работ.
 
-Here are some ideas to get you started:
+Учусь в магистратуре МАИ (ИВТ, вечернее), ищу работу продуктовым аналитиком. Интересуюсь fashion и digital-продуктами. Метрики считаю честно: проверяю гипотезы, а не подгоняю их под удобный ответ.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Стек.** SQL (PostgreSQL, ClickHouse, оконные функции, CTE), Python (pandas, numpy, scipy, statsmodels, seaborn), DataLens, Git, Excel.
+
+## Проекты
+
+| Проект | О чём | Статус |
+|---|---|---|
+| [Маркетплейс Olist](olist-marketplace) | Retention, PMF, приоритизация гипотез по ICE | готов |
+| A/B-тест (Kaggle) | Bootstrap-доверительные интервалы, SRM, Mann-Whitney | скоро |
+| RFM-сегментация | Сегменты пользователей стримингового сервиса | скоро |
+| Анализ возвратов | Причины и стоимость возвратов в fashion, SQL на DuckDB | скоро |
+
+## Маркетплейс Olist: retention, PMF, приоритизация гипотез
+
+Папка: [`olist-marketplace`](olist-marketplace)
+
+**Описание.** Разбор данных бразильского маркетплейса Olist за 2016–2018 годы: оценка состояния продукта, поиск ключевой проблемы и первоочередной гипотезы для роста.
+
+**Навыки.** Когортный анализ, расчёт retention, оценка product-market fit, выбор продуктовых метрик (target, proxy, guardrail), приоритизация гипотез по ICE, продуктовые выводы.
+
+**Стек.** Python, pandas, numpy, matplotlib, seaborn.
+
+**Результат.** Медианный retention первого месяца 0,35%, 97% покупателей делают единственный заказ. Product-market fit не достигнут, рост держится только на притоке новых пользователей. Из трёх гипотез по ICE выбрана первая (ICE 240) как самая реализуемая с прямым эффектом на доставленные заказы.
+
+[Открыть проект →](olist-marketplace)
+
+## Связь
+
+Telegram: @iraforira · Почта: i03201735@gmail.com
+
