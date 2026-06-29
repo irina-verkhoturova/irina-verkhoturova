@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Меня зовут Ирина <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"></h1>
 
-<img align="right" width="400" src="[https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d21qMzQzejJuNWFhajBlcjd1MHRtYmNkaGRodnhsZWRpYjBud3F4aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NGH08z383lWqxwXvi7/giphy.gif)">
+<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d21qMzQzejJuNWFhajBlcjd1MHRtYmNkaGRodnhsZWRpYjBud3F4aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NGH08z383lWqxwXvi7/giphy.gif">
 
 ### Product/BI аналитик
 
