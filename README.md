@@ -1,35 +1,36 @@
-# Портфолио 
+<h1 align="center">Привет! Меня зовут Ирина <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"></h1>
 
-Привет! Меня зовут Ирина. Здесь собраны мои проекты: когортный анализ, удержание, A/B-тесты, юнит-экономика, приоритизация гипотез. Репозиторий пополняется по мере новых работ.
+<h3 align="center">Продуктовый аналитик</h3>
 
-Учусь в магистратуре МАИ, ищу работу продуктовым аналитиком. Интересуюсь fashion и digital-продуктами
+<p align="center">
+Изучаю продукты через данные: A/B-тесты, когортный анализ, удержание, юнит-экономика, приоритизация гипотез.<br/>
+Обучаюсь в магистратуре в Московском авиационном институте. Интересуюсь fashion и digital-продуктами.
+</p>
 
-**Стек.** SQL (PostgreSQL, ClickHouse, оконные функции, CTE), Python (pandas, numpy, scipy, statsmodels, seaborn), DataLens, Git, Excel.
+<p align="center">
+  <a href="https://t.me/ТВОЙ_НИК"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:i03201735@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="ССЫЛКА_НА_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-## Проекты
+---
 
-| Проект | О чём | Статус |
+### Навыки
+
+**Аналитика:** `A/B-тесты` `когортный анализ` `retention` `юнит-экономика` `RFM` `ICE / RICE` `продуктовые метрики`
+
+**Python:** `pandas` `numpy` `scipy` `statsmodels` `matplotlib` `seaborn`
+
+**Данные и инструменты:** `SQL` `PostgreSQL` `ClickHouse` `DuckDB` `DataLens` `Excel` `Git` `Jupyter`
+
+---
+
+### Проекты
+
+| Проект | О чём | Стек и методы |
 |---|---|---|
-| [Маркетплейс Olist](olist-marketplace) | Retention, PMF, приоритизация гипотез по ICE | готов |
-| A/B-тест (Kaggle) | Bootstrap-доверительные интервалы, SRM, Mann-Whitney | скоро |
-| RFM-сегментация | Сегменты пользователей стримингового сервиса | скоро |
-| Анализ возвратов | Причины и стоимость возвратов в fashion, SQL на DuckDB | скоро |
-
-## Маркетплейс Olist: retention, PMF, приоритизация гипотез
-
-Папка: [`olist-marketplace`](olist-marketplace)
-
-**Описание.** Разбор данных бразильского маркетплейса Olist за 2016–2018 годы: оценка состояния продукта, поиск ключевой проблемы и первоочередной гипотезы для роста.
-
-**Навыки.** Когортный анализ, расчёт retention, оценка product-market fit, выбор продуктовых метрик (target, proxy, guardrail), приоритизация гипотез по ICE, продуктовые выводы.
-
-**Стек.** Python, pandas, numpy, matplotlib, seaborn.
-
-**Результат.** Медианный retention первого месяца 0,35%, 97% покупателей делают единственный заказ. Product-market fit не достигнут, рост держится только на притоке новых пользователей. Из трёх гипотез по ICE выбрана первая (ICE 240) как самая реализуемая с прямым эффектом на доставленные заказы.
-
-[Открыть проект →](olist-marketplace)
-
-## Связь
-
-Telegram: @iraforira · Почта: i03201735@gmail.com
+| [Маркетплейс Olist](https://github.com/irina-verkhoturova/irina-verkhoturova/tree/main/olist-marketplace) | Оценка состояния маркетплейса: retention первого месяца 0,35%, PMF не достигнут, выбор гипотезы роста по ICE | Python, pandas, когортный анализ, retention, ICE |
+| [A/B-тест: редизайн страницы](https://github.com/irina-verkhoturova/irina-verkhoturova/tree/main/ab-test) | Надёжный ноль на 294 тыс. событий: чистка, SRM, bootstrap-ДИ, расчёт мощности и MDE | Python, scipy, statsmodels, bootstrap, SRM |
+| RFM-сегментация *(скоро)* | Сегменты пользователей стримингового сервиса на реалистичных данных | Python, pandas, RFM |
+| Анализ возвратов *(скоро)* | Причины и стоимость возвратов в fashion | SQL, DuckDB, оконные функции |
 
