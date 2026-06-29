@@ -33,8 +33,8 @@
 | Проект | О чём | Стек и методы |
 |---|---|---|
 | [Маркетплейс Olist](https://github.com/irina-verkhoturova/pet-projects/tree/main/olist-marketplace) | Оценка состояния маркетплейса: retention первого месяца 0,35%, PMF не достигнут, выбор гипотезы роста по ICE | Python, pandas, когортный анализ, retention, ICE |
-| [A/B-тест: редизайн страницы](https://github.com/irina-verkhoturova/irina-verkhoturova/tree/main/ab-test) | Надёжный ноль на 294 тыс. событий: чистка, SRM, bootstrap-ДИ, расчёт мощности и MDE | Python, scipy, statsmodels, bootstrap, SRM |
-| [RFM-сегментация](https://github.com/irina-verkhoturova/irina-verkhoturova/tree/main/rfm-segmentation) | 5 поведенческих сегментов на сыром event-логе, найден скрытый отток («спящие») | Python, scikit-learn, RFM, KMeans |
+| [A/B-тест: редизайн страницы](https://github.com/irina-verkhoturova/pet-projects/tree/main/ab-test) | Надёжный ноль на 294 тыс. событий: чистка, SRM, bootstrap-ДИ, расчёт мощности и MDE | Python, scipy, statsmodels, bootstrap, SRM |
+| [RFM-сегментация](https://github.com/irina-verkhoturova/pet-projects/tree/main/rfm-segmentation) | 5 поведенческих сегментов на сыром event-логе, найден скрытый отток | Python, scikit-learn, RFM, KMeans |
 | Анализ возвратов | Причины и стоимость возвратов в fashion | SQL, DuckDB, оконные функции |
 
 
