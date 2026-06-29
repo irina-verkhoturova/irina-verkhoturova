@@ -31,5 +31,5 @@
 
 ## Связь
 
-Telegram: @ник · Почта: i03201735@gmail.com
+Telegram: @iraforira · Почта: i03201735@gmail.com
 
