@@ -1,17 +1,20 @@
 <h1 align="center">Привет! Меня зовут Ирина <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"></h1>
 
-<h3 align="center">Продуктовый аналитик</h3>
+<img align="right" width="400" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif">
 
-<p align="center">
-Изучаю продукты через данные: A/B-тесты, когортный анализ, удержание, юнит-экономика, приоритизация гипотез.<br/>
-Обучаюсь в магистратуре в Московском авиационном институте. Интересуюсь fashion и digital-продуктами.
-</p>
+### Продуктовый аналитик
 
-<p align="center">
-  <a href="https://t.me/ТВОЙ_НИК"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:i03201735@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="ССЫЛКА_НА_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+*Изучаю продукты через данные: A/B-тесты, когортный анализ, удержание, юнит-экономика, приоритизация гипотез.*
+<br/>*Учусь в магистратуре в Московском авиационном институте, ищу работу продуктовым аналитиком.*
+<br/>*Интересуюсь fashion и digital-продуктами.*
+
+**Контакты:**
+
+<a href="https://t.me/ТВОЙ_НИК"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="mailto:i03201735@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="ССЫЛКА_НА_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<br clear="all">
 
 ---
 
