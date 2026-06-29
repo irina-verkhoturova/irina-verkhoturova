@@ -8,19 +8,6 @@
 
 **Результат.** Медианный retention первого месяца составил 0,35%: из тысячи новых покупателей в следующем месяце возвращаются три или четыре. 97% покупателей делают единственный заказ, поэтому рост платформы держится только на притоке новых пользователей, около 4 000 в месяц. Product-market fit не достигнут: кривые удержания всех когорт падают до нуля, а рост GMV полностью повторяет рост MAU. Из трёх гипотез по ICE выбрана первая, исправление бага в процессинге заказов (ICE 240), как самая реализуемая с прямым измеримым эффектом на доставленные заказы. Под гипотезу подобран набор метрик: целевая, две прокси и две guardrail.
 
-**Данные.** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). Датасет в репозитории не лежит, он большой. Скачай его с Kaggle и положи в папку `data/` три файла:
-
-```
-data/olist_customers_dataset.csv
-data/olist_order_items_dataset.csv
-data/olist_orders_dataset.csv
-```
-
-**Как запустить.**
-
-```bash
-pip install -r requirements.txt
-jupyter notebook olist.ipynb
-```
+**Данные.** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). 
 
 **Код.** [`olist.ipynb`](olist.ipynb)
