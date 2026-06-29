@@ -2,7 +2,7 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif">
 
-### Продуктовый аналитик
+### Product/BI аналитик
 
 *Изучаю продукты через данные: A/B-тесты, когортный анализ, удержание, юнит-экономика, приоритизация гипотез.*
 <br/>*Учусь в магистратуре в Московском авиационном институте, ищу работу продуктовым аналитиком.*
@@ -10,9 +10,9 @@
 
 **Контакты:**
 
-<a href="https://t.me/ТВОЙ_НИК"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://t.me/iraforira"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="mailto:i03201735@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="ССЫЛКА_НА_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="[ССЫЛКА_НА_LINKEDIN](https://www.linkedin.com/in/Irina-ver)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br clear="all">
 
