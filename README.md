@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Меня зовут Ирина
+<h1 align="center">Привет! Меня зовут Ирина>
 <img align="right" width="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdwamQ2MDlxbXlpOTh4d2F5NzJuc2UzZjRiODdkMGdmcDVnY2I5dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2Yj2vRSHrhZIUyVPGl/giphy.gif">
 
 ### Product/BI аналитик
